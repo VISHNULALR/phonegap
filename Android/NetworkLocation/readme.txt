@@ -1,1 +1,1 @@
-Plugin to read network loaction 
+Plugin to read network location 
